@@ -1,0 +1,9 @@
+{
+  "name": "ArogyaCopilot - AI Personal Health Copilot & ABDM Health Timeline",
+  "description": "AI-powered Personal Health Copilot for prescription OCR, bilingual lab report extraction, ABDM/ABHA health passport, age-wise health panels, medicine & water reminders, BMI/calorie calculators, family emergency SOS, and nearby hospital locator.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
